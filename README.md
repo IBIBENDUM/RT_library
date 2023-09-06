@@ -6,6 +6,7 @@
   * [Задавальник ангем с сайта](https://github.com/IBIBENDUM/RT_library/blob/main/zadavalniki/angem_zadavalnik_iz_sayta.pdf)
   * [Задавальник матан с сайта](https://github.com/IBIBENDUM/RT_library/blob/main/zadavalniki/matan_zadavalnik_iz_sayta.pdf)
 * Матан
+  * [А. Ю. Петрович, Лекции по математическому анализу. Ч. 1.](https://github.com/IBIBENDUM/RT_library/blob/main/matan/matan_petrovich_lectsii.pdf) 
   * [Л. Д. Кудрявцев, Сборник задач по математическому анализу. Ч. 1](https://github.com/IBIBENDUM/RT_library/blob/main/matan/matan_kudryavhev_zadachnik_p1.pdf)
   * [Л. Д. Кудрявцев, Сборник задач по математическому анализу. Ч. 2](https://github.com/IBIBENDUM/RT_library/blob/main/matan/matan_kudryavhev_zadachnik_p2.pdf)
 * Ангем
